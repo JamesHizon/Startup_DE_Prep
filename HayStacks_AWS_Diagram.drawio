@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T20:37:44.306Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.6.4" etag="H1gj_xqMSipGcFd-mj8Z" type="github"><diagram id="icgiSQLskEtUz7CoKG9s">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-01T20:40:37.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="YONOnapz_fAGmoxne_Gr" version="15.6.4" type="github">
+  <diagram id="icgiSQLskEtUz7CoKG9s" name="Page-1">
+    <mxGraphModel dx="1298" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cqt-nsCRII5KMIGJ585b-1" value="&lt;h1&gt;HayStacks Operationalized System Architecture&lt;/h1&gt;&lt;p&gt;- Our operationalized system architecture will include AWS services like S3, EMR, Redshift, and other services.&lt;/p&gt;&lt;p&gt;- We need to think about edge case conditions for our system architecture, such as, what if we are dealing with real-time streaming data? How do we scale up (horizontally/vertically) for increasing amount of users?&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="590" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
