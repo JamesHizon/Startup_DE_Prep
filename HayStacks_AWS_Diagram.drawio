@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T21:46:42.040Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="YERRvn41YiMQ8Fc3y_Sj" version="15.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T21:48:05.521Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="edhXvXKUKstvzSol_zeI" version="15.6.4" type="github">
   <diagram id="icgiSQLskEtUz7CoKG9s" name="Page-1">
-    <mxGraphModel dx="1298" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="479" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,8 +166,8 @@
             <mxPoint x="805" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cqt-nsCRII5KMIGJ585b-65" value="&lt;h1&gt;Trade-offs:&lt;/h1&gt;&lt;p&gt;1. I chose to integrate w/ AWS DynamoDB vs. AWS Redshift and AWS RDS since we are interacting w/ CSV files and DynamoDB is a NoSQL database solution.&lt;/p&gt;&lt;p&gt;2.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="40" y="560" width="620" height="120" as="geometry" />
+        <mxCell id="Cqt-nsCRII5KMIGJ585b-65" value="&lt;h1&gt;Trade-offs:&lt;/h1&gt;&lt;p&gt;1. I chose to integrate w/ AWS DynamoDB vs. AWS Redshift and AWS RDS since we are interacting w/ CSV files and DynamoDB is a NoSQL database solution.&lt;/p&gt;&lt;p&gt;2. Optimal Workloads:&lt;/p&gt;&lt;p&gt;3. Data Model:&lt;/p&gt;&lt;p&gt;4. Data Access:&lt;/p&gt;&lt;p&gt;5. Performance:&lt;/p&gt;&lt;p&gt;6. Scaling:&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="620" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Cqt-nsCRII5KMIGJ585b-66" value="&lt;h1&gt;Resources:&lt;/h1&gt;&lt;p&gt;- Link:&amp;nbsp;https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SQLtoNoSQL.WhyDynamoDB.html&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="40" y="960" width="630" height="80" as="geometry" />
